@@ -1,0 +1,67 @@
+
+ body{
+background-image: linear-gradient(#0077b6,#ade8f4);
+background-repeat: no-repeat;
+}
+.list{
+  list-style-type: none;
+  text-align: left;
+  }
+  a:hover{
+    background-image: linear-gradient(red,yellow);
+    color: white;
+  }
+  li a{
+    color: red;
+    font-size: 30px;
+    text-decoration:none;
+  }
+header{
+  height: 440px;
+  margin: -9px;
+  text-align: center;
+  padding-top:50px;
+  padding-bottom:50px;
+  background-color: #14213d;
+}
+.firstimg{
+ border-radius: 100px;
+ width: 250px;
+ height: 250px;
+}
+h2{
+  padding: 5px;
+  font-size: 45px;
+}
+
+#lastsession,#lastsession2,#lastsession3,#lastsession4 {
+  height:400px;
+  width:320px;
+  border-radius:150px;
+  padding: 5px;
+}
+.last{
+
+  font-size: 30px;
+}
+h3{
+  font-size: 20px;
+  padding: 5px;
+}
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+}
+.Register_heading{
+  text-align: center;
+
+  font-size: 55px;
+  font-style: italic;
+}
+form{
+text-align: center;
+}
+.header_2{
+  background-color: #457b9d;
+  height: 20px;
+}
